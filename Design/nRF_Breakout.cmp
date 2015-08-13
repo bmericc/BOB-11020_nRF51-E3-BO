@@ -1,0 +1,115 @@
+Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 8/13/2015 12:40:21 PM
+
+BeginCmp
+TimeStamp = /55CB4C15;
+Reference = BT1;
+ValeurCmp = BATTERY;
+IdModule  = ee:SMD_Coincell_Holder;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CB5B46;
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CB4C86;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = ee:LED-0603_NEW;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CB6D6E;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = ee:LED-0603_NEW;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CB4F3F;
+Reference = IC1;
+ValeurCmp = LM1117;
+IdModule  = ee:LM_1117;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CC38F1;
+Reference = P1;
+ValeurCmp = CONN_01X18;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x18;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CB3F51;
+Reference = P2;
+ValeurCmp = CONN_01X08;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CC39F4;
+Reference = P3;
+ValeurCmp = CONN_01X18;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x18;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CB3ECB;
+Reference = P5;
+ValeurCmp = CONN_01X08;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CB50F6;
+Reference = P7;
+ValeurCmp = CONN_01X01;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CB5314;
+Reference = P8;
+ValeurCmp = CONN_01X01;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CB52A5;
+Reference = P9;
+ValeurCmp = CONN_01X01;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CB52EB;
+Reference = P10;
+ValeurCmp = CONN_01X01;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CB4CCD;
+Reference = R1;
+ValeurCmp = 470r;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CB6DC1;
+Reference = R2;
+ValeurCmp = 470r;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CC36C6;
+Reference = U1;
+ValeurCmp = nRF51822;
+IdModule  = ee:nRF81522Final;
+EndCmp
+
+EndListe
