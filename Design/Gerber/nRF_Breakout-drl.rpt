@@ -1,0 +1,25 @@
+Drill report for /home/bmericc/Dropbox/BOB-11020_nRF51-E3-BO/Design/nRF_Breakout.kicad_pcb
+Created on Cts 24 Haz 2017 18:36:29 +03
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'nRF_Breakout.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0,55mm  0,022"  (4 holes)
+    T2  0,81mm  0,032"  (36 holes)
+    T3  1,02mm  0,040"  (56 holes)
+    T4  2,00mm  0,079"  (2 holes)  (with 2 slots)
+
+    Total plated holes count 98
+
+
+Drill file 'nRF_Breakout-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
